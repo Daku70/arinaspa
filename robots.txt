@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://arinarussianspa.com/sitemap.xml
